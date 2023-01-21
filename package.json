@@ -1,0 +1,28 @@
+{
+  "name": "webmodules.codinginvest.com",
+  "version": "1.0.0",
+  "description": "A package to enable developers to work using a modular architecture, to easily add code from different sources and patterns avoiding coupled concepts, compiling it into output files with optimized performance and compatibility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coding-Invest/webmodules.codinginvest.com.git"
+  },
+  "keywords": [
+    "module",
+    "builder",
+    "achitecture",
+    "code",
+    "builder",
+    "compiler",
+    "wwwroot"
+  ],
+  "author": "Coding Invest",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Coding-Invest/webmodules.codinginvest.com/issues"
+  },
+  "homepage": "https://github.com/Coding-Invest/webmodules.codinginvest.com#readme"
+}
